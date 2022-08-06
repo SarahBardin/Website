@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Sarah Bardin
 title:  Researcher, Human Services, Mathematica
-        PhD Student, School of Geographical Sciences and Urban Planning, Arizona State University
+title:  PhD Student, School of Geographical Sciences and Urban Planning, Arizona State University
 email: sfbardin@asu.edu
 #website: www.github.com/SarahBardin
 
@@ -42,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-# about_profile_image: images/Bardin_pic.png
+about_profile_image: images/Bardin_pic.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sarah and I'm a PhD Student in Geography at Arizona State University and Researcher at Mathematica. More to come... 
 
