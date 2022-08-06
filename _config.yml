@@ -90,7 +90,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Arizona State University, School of Geographical Sciences and Urban Planning
+        sub_title: Arizona State University, School of Geographical Sciences and Urban Planning
         caption: 2019 - Present
         sub_title: PhD Geography (expected Dec 2023)
         sub_title: MA Geography (2021)
@@ -101,7 +101,7 @@ content:
           XXX
           
       - layout: left
-        title: University of Chicago
+        sub_title: University of Chicago
         caption: 2011 - 2015
         sub_title: AB Public Policy, Departmental Honors
         sub_title: AB Political Science, General Honors
