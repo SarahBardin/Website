@@ -43,11 +43,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Bardin_pic.png
 about_content: | # this will include new lines to allow paragraphs
-  As a spatial statistician and policy researcher by training, I bring deep analytic expertise in geographic data analysis, policy evaluation, 
-  measure development, and visualization to my work. For the past 5 years, I've led the design and implementation of quantitative analyses to 
-  examine federal child nutrition programs, child welfare service provision, and unintended and teen pregnancy prevention programs for federal and 
-  foundation clients. In addition to my professional research, I am currently pursuing my PhD in Geography at Arizona State University where I seek
-  to advance the development of a Spatial Policy that brings an explicitly geographic approach to public policy research. My dissertation aims to
+  As a spatial statistician and policy researcher by training, I bring deep analytic expertise in geographic data analysis, policy evaluation, and 
+  measure development to my work. For the past 5 years, I've led the design and implementation of quantitative analyses to examine federal child 
+  nutrition programs, child welfare service provision, and unintended and teen pregnancy prevention programs for federal and foundation clients.
+  In addition to my professional research, I am currently pursuing my PhD in Geography at Arizona State University where I seek to advance
+  the development of a Spatial Policy that brings an explicitly geographic approach to public policy research. My dissertation aims to
   offer a pathway to shift from simply identifying "what works" to knowing "what works where" to support improved evidence-based policy making.
 
 content:
@@ -55,20 +55,36 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Under development
+        border: weak
+        title: Study of Nutrition and Activity in Childcare Settings in USDA’s Child and Adult Care Food Program (SNACS)-II
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          XXXXX.
+         
         description: | # this will include new lines to allow paragraphs
-          Under development.
+          Overall analytic lead for the second nationally representative, comprehensive assessment of the Child and Adult Care Food Program (CACFP).
+        
+        title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         
+        description: | # this will include new lines to allow paragraphs
+          Environmental scan task lead.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,7 +102,7 @@ content:
         # caption: July 2015 - March 2018
         
         quote: >
-          Improving **public well-being** by bringing the highest standards of **quality**, **objectivity**, and **excellence** to bear on the provision of information collection and analysis.
+          Improving <mark>public well-being</mark> by bringing the highest standards of <mark>quality, objectivity, and excellence</mark> to bear on the provision of information collection and analysis.
         description: | # this will include new lines to allow paragraphs
             Section under development.
             
@@ -95,21 +111,20 @@ content:
     content:
       - layout: left
         title: Arizona State University
-               School of Geographical Sciences and Urban Planning
         caption: 2019 - Present
         sub_title: PhD Geography (expected Dec 2023)
-        sub_title: MA Geography (2021)
+                   MA Geography (2021)
         
         quote: >
-          XXX
+          
           description: | # this will include new lines to allow paragraphs
-          XXX
+          
           
       - layout: left
         title: University of Chicago
         caption: 2011 - 2015
-        sub_title: AB Public Policy, Departmental Honors
-        sub_title: AB Political Science, General Honors
+        sub_title: AB Public Policy, Departmental Honors 
+                   AB Political Science, General Honors
         
         quote: >
           XXX
