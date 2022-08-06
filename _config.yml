@@ -71,8 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Overall analytic lead for the second nationally representative, comprehensive assessment of the Child and Adult Care Food Program (CACFP).
      
-     - layout: top-middle
-        border: weak        
+     - layout: top-middle    
         title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
         # link: github.com/sproogen
         # link_text: Project Website
