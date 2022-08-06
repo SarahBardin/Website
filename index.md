@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sarah (LeBarron) Bardin
 
 You can use the [editor on GitHub](https://github.com/SarahBardin/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
