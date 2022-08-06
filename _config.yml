@@ -70,9 +70,7 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           Overall analytic lead for the second nationally representative, comprehensive assessment of the Child and Adult Care Food Program (CACFP).
-      
-         
-         
+                 
         title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
         # link: github.com/sproogen
         # link_text: Project Website
@@ -87,6 +85,30 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           Environmental scan task lead.
+          
+          
+      - layout: top-middle
+        title: Arizona State University
+        caption: 2019 - Present
+        sub_title: PhD Geography (expected Dec 2023)
+                   MA Geography (2021)
+        
+        quote: >
+          
+          description: | # this will include new lines to allow paragraphs
+          
+          
+      - layout: top-middle
+        title: University of Chicago
+        caption: 2011 - 2015
+        sub_title: AB Public Policy, Departmental Honors 
+                   AB Political Science, General Honors
+        
+        quote: >
+          
+          description: | # this will include new lines to allow paragraphs
+          
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
