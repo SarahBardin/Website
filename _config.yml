@@ -57,6 +57,7 @@ content:
       - layout: top-middle
         border: weak
         title: Study of Nutrition and Activity in Childcare Settings in USDA’s Child and Adult Care Food Program (SNACS)-II
+        caption: 2022 - Present
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -71,27 +72,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Overall analytic lead for the second nationally representative, comprehensive assessment of the Child and Adult Care Food Program (CACFP).
                  
-        title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-         
-        description: | # this will include new lines to allow paragraphs
-          Environmental scan task lead.
-          
           
       - layout: top-middle
-        title: Arizona State University
-        caption: 2019 - Present
-        sub_title: PhD Geography (expected Dec 2023)
-                   MA Geography (2021)
+        border: weak
+        title: SNAP Access and Participation Rates for Children
+        caption: 2022 - Present
         
         quote: >
           
@@ -99,8 +84,9 @@ content:
           
           
       - layout: top-middle
-        title: University of Chicago
-        caption: 2011 - 2015
+        border: weak
+        title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
+        caption: 2022 - Present
         sub_title: AB Public Policy, Departmental Honors 
                    AB Political Science, General Honors
         
