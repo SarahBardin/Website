@@ -54,7 +54,7 @@ content:
   - title: Current Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         border: weak
         title: Study of Nutrition and Activity in Childcare Settings in USDA’s Child and Adult Care Food Program (SNACS)-II
         # link: github.com/sproogen
@@ -72,7 +72,7 @@ content:
           Overall analytic lead for the second nationally representative, comprehensive assessment of the Child and Adult Care Food Program (CACFP).
       
          
-     - layout: left 
+         
         title: Child Welfare Study to Enhance Equity through Data (CW-SEED)
         # link: github.com/sproogen
         # link_text: Project Website
