@@ -74,12 +74,12 @@ content:
         link: Mathematica.org
         sub_title: Researcher, Human Services
         caption: March 2021 - Present
-        sub_title: Research Analyst, Human Services
-        caption: January 2020 - March 2021
-        sub_title: Data Analytics Developer/Senior Programmer, Human Services
-        caption: March 2018 - December 2019
-        sub_title: Research Associate/Programmer, Human Services
-        caption: July 2015 - March 2018
+        # sub_title: Research Analyst, Human Services
+        # caption: January 2020 - March 2021
+        # sub_title: Data Analytics Developer/Senior Programmer, Human Services
+        # caption: March 2018 - December 2019
+        # sub_title: Research Associate/Programmer, Human Services
+        # caption: July 2015 - March 2018
         
         quote: >
           Improving **public well-being** by bringing the highest standards of **quality**, **objectivity**, and **excellence** to bear on the provision of information collection and analysis.
@@ -90,7 +90,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Arizona State University, Bankline.
+        title: Arizona State University
                School of Geographical Sciences and Urban Planning
         caption: 2019 - Present
         sub_title: PhD Geography (expected Dec 2023)
