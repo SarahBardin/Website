@@ -7,7 +7,8 @@ version: 2
 
 # Personal info
 name: Sarah Bardin
-title:  Researcher, Human Services, Mathematica, Bankline.
+title:  | 
+        Researcher, Human Services, Mathematica, Bankline.
         PhD Student, School of Geographical Sciences and Urban Planning, Arizona State University
 email: sfbardin@asu.edu
 #website: www.github.com/SarahBardin
